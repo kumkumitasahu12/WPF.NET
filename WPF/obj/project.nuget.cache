@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QYZCK/XYwBD/EVcME09+lWJ1XYjTw/B/3ngHTrE3Tp3V0GKu6y72e7o+YuoE13Zy1GThl4RA5zH/8Lhwi98/ww==",
+  "success": true,
+  "projectFilePath": "C:\\WPF+ASP.NET\\WPF\\WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kumku\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\kumku\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\kumku\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\kumku\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

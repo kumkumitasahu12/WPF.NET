@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPF.Views.AddPersonWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Person" Height="300" Width="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBox ToolTip="Enter Name" Name="Name" Text="{Binding NewPerson.Name}" />
+            <TextBox ToolTip="Enter Position" Name="Position" Text="{Binding NewPerson.PositionName}" />
+            <TextBox ToolTip="Enter Department" Name="Department" Text="{Binding NewPerson.DepartmentName}" />
+            <TextBox ToolTip="Enter Salary" Name="Salary" Text="{Binding NewPerson.Salary}" />
+            <TextBox ToolTip="Enter City" Name="City" Text="{Binding NewPerson.PersonCity}" />
+            <Button Content="Save" Command="{Binding SavePersonCommand}" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
